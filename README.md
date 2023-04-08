@@ -10,3 +10,4 @@ Assume venv is call venv.
 `cd app`
 
 `uvicorn main:app --reload`
+A Docker container for FastAPI micro services
