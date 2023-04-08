@@ -1,0 +1,5 @@
+docker build -t fapi:latest .
+
+docker run -d --name mycontainer -p 80:80 fapi:latest
+
+http://127.0.0.1/items/5?q=somequery
