@@ -1,0 +1,5 @@
+.env
+.gitignore
+docker_run.txt
+README.md
+Dockerfile
