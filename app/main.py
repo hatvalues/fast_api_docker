@@ -11,8 +11,6 @@ from app.blog_model import BlogPost
 
 from fastapi import FastAPI
 
-import bcrypt
-
 posts = [
     {
         "id": 1,
