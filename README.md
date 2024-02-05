@@ -25,5 +25,7 @@ launch container:
 
 ## Healthchecks
 http://127.0.0.1/
+
 http://127.0.0.1/hello
+
 http://127.0.0.1/items/5?q=somequery
